@@ -51,5 +51,7 @@ public class Main {
 
         int a = 23;
 
+        System.out.println("This is the new variable " + a);
+
     }
 }
